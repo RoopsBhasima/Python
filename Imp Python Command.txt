@@ -4,4 +4,6 @@ This creates virtual environment where we install django so that it won't affect
 
 mkvirtualenv djangoclass
 
+pip install Django==3.0
+
 
