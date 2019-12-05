@@ -13,6 +13,7 @@ workon
 
 django-admin startproject firstproject and reopens it
 
-python manage.py startapp aafno naamhalne
+python manage.py startapp Rupesh
+
 python manage.py runserver
 
