@@ -3,7 +3,12 @@ pip install virtualenvwrapper-win
 This creates virtual environment where we install django so that it won't affect any other system in machine.
 
 mkvirtualenv djangoclass
+    This creates Djangoclass in the virtual environment.
 
 pip install Django==3.0
+    Install Django in the class
+    
+workon
+   Shows the list of virtualenvs
 
 
