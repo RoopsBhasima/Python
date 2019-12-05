@@ -13,3 +13,5 @@ workon
 
 django-admin startproject firstproject and reopens it
 
+python manage.py startapp aafno naamhalne
+
