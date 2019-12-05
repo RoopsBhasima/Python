@@ -1,0 +1,3 @@
+pip install virtualenvwrapper-win
+
+This creates virtual environment where we install django so that it won't affect any other system in machine.
