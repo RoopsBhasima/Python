@@ -11,5 +11,5 @@ pip install Django==3.0
 workon
    Shows the list of virtualenvs
 
-django-admin startproject firstproject md and reopens it
+django-admin startproject firstproject and reopens it
 
